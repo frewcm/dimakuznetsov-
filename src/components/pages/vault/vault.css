@@ -1,0 +1,28 @@
+.vault{
+    width: 100%;
+    height: auto;
+    position: absolute;
+    display: flex;
+    align-items: center;
+    background-color: #E2E8F0;
+}
+.table-style{
+   margin-left: 118px;
+   width: 1100px;
+   
+}
+.headsvault{
+    display: flex;
+    margin-top: 50px;
+    align-items: center;
+    justify-content: baseline;
+    margin-left: 118px;
+    
+}
+.popover{
+    margin-left: 118px;
+}
+.btn:focus {
+    outline: none;
+    box-shadow: none;
+  }

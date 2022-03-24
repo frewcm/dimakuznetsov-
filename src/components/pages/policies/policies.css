@@ -1,0 +1,26 @@
+.policies{
+    background-color: #E2E8F0;
+    width: 100%;
+    height: 100vh;
+    position: absolute;
+
+}
+.policiescontainer{
+    width: 400px;
+    margin-left: 118px;
+}
+.headspolicies{
+    display: flex;
+    align-items: center;
+    
+    margin-top: 50px;
+}
+.policieslink{
+    text-decoration: none;
+    font-size: 15px;
+    margin-left: 118px;
+}
+.policiesp{
+   margin-top: 15px;
+   margin-left: 5px;
+}
